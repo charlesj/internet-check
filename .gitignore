@@ -1,0 +1,11 @@
+InternetStatusCheck/[Bb]in/*
+InternetStatusCheck/[Oo]bj/*
+*.log
+*.suo
+*.cache
+*.user
+*.xap
+*.pfx
+*.ncrunchsolution
+*[Pp]ublish
+packages/*
